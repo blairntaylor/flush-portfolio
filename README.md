@@ -1,3 +1,5 @@
+# 08-Homework
+
 # flush-portfolio
 
 ## Portfolio
@@ -11,3 +13,5 @@ The GitHub profile was updated including picture and bio. Several outdated and e
 ## Resume
 
 Create an abbreviated resume page on portfolio webpage. It has links to both GitHub and LinkedIn profiles. Resume page includes all contact information, an education section and technologies section.
+
+[Screenshot](assets/screenshot.png)
